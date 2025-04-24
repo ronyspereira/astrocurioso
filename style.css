@@ -76,7 +76,7 @@ nav {
 .one {
     width: 200px;
     height: 250px;
-    border-radius: 15px 15px 15px 50px;
+    border-radius: 50px 15px 15px 15px;
 }
 
 .two {
